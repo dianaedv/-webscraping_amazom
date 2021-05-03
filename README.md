@@ -1,3 +1,3 @@
-# -webscraping_amazom
+# webscraping_amazom
 
 https://github.com/mozilla/geckodriver/releases
