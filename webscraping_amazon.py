@@ -6,6 +6,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
+#teste
 #url = "https://www.amazon.com.br/s?rh=n%3A16243890011&fs=true&ref=lp_16243890011_sar"
  
 """Obtem os dados estaticos do site, as tag's, links e nome de classes foram obtidas com a inspeccao de elemento do browser"""
